@@ -1,0 +1,15 @@
+C:\codigos\projetos C#\Multicast_Delegates\Multicast_Delegates\bin\Debug\net7.0\Multicast_Delegates.exe
+C:\codigos\projetos C#\Multicast_Delegates\Multicast_Delegates\bin\Debug\net7.0\Multicast_Delegates.deps.json
+C:\codigos\projetos C#\Multicast_Delegates\Multicast_Delegates\bin\Debug\net7.0\Multicast_Delegates.runtimeconfig.json
+C:\codigos\projetos C#\Multicast_Delegates\Multicast_Delegates\bin\Debug\net7.0\Multicast_Delegates.dll
+C:\codigos\projetos C#\Multicast_Delegates\Multicast_Delegates\bin\Debug\net7.0\Multicast_Delegates.pdb
+C:\codigos\projetos C#\Multicast_Delegates\Multicast_Delegates\obj\Debug\net7.0\Multicast_Delegates.csproj.AssemblyReference.cache
+C:\codigos\projetos C#\Multicast_Delegates\Multicast_Delegates\obj\Debug\net7.0\Multicast_Delegates.GeneratedMSBuildEditorConfig.editorconfig
+C:\codigos\projetos C#\Multicast_Delegates\Multicast_Delegates\obj\Debug\net7.0\Multicast_Delegates.AssemblyInfoInputs.cache
+C:\codigos\projetos C#\Multicast_Delegates\Multicast_Delegates\obj\Debug\net7.0\Multicast_Delegates.AssemblyInfo.cs
+C:\codigos\projetos C#\Multicast_Delegates\Multicast_Delegates\obj\Debug\net7.0\Multicast_Delegates.csproj.CoreCompileInputs.cache
+C:\codigos\projetos C#\Multicast_Delegates\Multicast_Delegates\obj\Debug\net7.0\Multicast_Delegates.dll
+C:\codigos\projetos C#\Multicast_Delegates\Multicast_Delegates\obj\Debug\net7.0\refint\Multicast_Delegates.dll
+C:\codigos\projetos C#\Multicast_Delegates\Multicast_Delegates\obj\Debug\net7.0\Multicast_Delegates.pdb
+C:\codigos\projetos C#\Multicast_Delegates\Multicast_Delegates\obj\Debug\net7.0\Multicast_Delegates.genruntimeconfig.cache
+C:\codigos\projetos C#\Multicast_Delegates\Multicast_Delegates\obj\Debug\net7.0\ref\Multicast_Delegates.dll
